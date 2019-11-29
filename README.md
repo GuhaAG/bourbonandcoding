@@ -1,2 +1,2 @@
 # bourbonandcoding
-Sample projects from my posts at blog.bourbonandcoding.com
+Sample projects from my posts at www.bourbonandcoding.com
